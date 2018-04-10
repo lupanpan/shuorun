@@ -1,0 +1,39 @@
+img {
+    height: 400px;
+}
+
+/*路径导航条*/
+/*.nav_lj {*/
+    /*!*margin-top: 40px;*!*/
+    /*background-color: #FFFFFF;*/
+/*}*/
+
+.nav_b p{
+    padding-left: 53px;
+    height: 59px;
+    line-height: 59px;
+    border-bottom: 1px solid #c0c0c0;
+    font-size: 22px;
+    color: #3c3c3c;
+    /*background-color: #2a6792;*/
+}
+
+.nav_c p {
+    height: 59px;
+    line-height: 59px;
+    font-size: 16px;
+    color: #FFFFFF;
+    background-color: #2a6792;
+}
+.content {
+    /*margin-top: 30px;*/
+}
+
+.content img{
+    width: 100%;
+    height: 200px;
+}
+
+.content p {
+    margin-top: 10px;
+}

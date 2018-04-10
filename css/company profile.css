@@ -1,0 +1,34 @@
+.comp {
+    margin-top: 30px;
+}
+
+.comp p {
+    color: #999;
+    line-height: 26px;
+}
+
+.comp_b p{
+    padding-left: 53px;
+    height: 59px;
+    line-height: 59px;
+    border-bottom: 1px solid #c0c0c0;
+    font-size: 22px;
+    color: #3c3c3c;
+}
+
+.comp_c p {
+    text-align: center;
+    height: 59px;
+    line-height: 59px;
+    font-size: 16px;
+    color: #FFFFFF;
+    background-color: #2a6792;
+}
+
+.comp_c a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.comp_c a:link {
+    color: #FFFFFF;
+}

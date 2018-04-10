@@ -1,0 +1,24 @@
+.qs {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-bottom: 1px dashed #cccccc;
+}
+
+.p1 {
+    margin-top: 5px;
+    font-size: 18px;
+}
+
+.p_text {
+    text-indent: 25px;
+}
+
+.p_text1 {
+    text-indent: 25px;
+    font-size: 16px;
+    line-height: 26px;
+
+}
+.p_a a {
+    text-decoration: none;
+}

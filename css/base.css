@@ -1,0 +1,48 @@
+body {
+	padding-top: 50px;
+	padding-bottom: 40px;
+	color: #5a5a5a;
+}
+
+/*底部*/
+.fot {
+	margin-top: 48px;
+	background-color: #1b252e;
+}
+.fot span {
+	margin-top: 48px;
+	display: block;
+	border-bottom: 1px solid #313a43;
+	margin-bottom: 28px;
+}
+
+.fot a {
+	display: block;
+	color: #8B939D;
+	text-decoration: none;
+}
+.fot a:hover {
+	color: #D80808;
+}
+
+.fot_fot {
+	color: #8B939D;
+	padding-left: 420px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+
+
+/*路径导航*/
+.breadcrumb{
+	background-color: #FFFFFF;
+	height: 59px;
+	line-height: 59px;
+	border-bottom: 1px solid #c0c0c0;
+}
+
+.breadcrumb a {
+	color: #999;
+	text-decoration: none;
+}
+
