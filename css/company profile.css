@@ -3,8 +3,9 @@
 }
 
 .comp p {
-    color: #999;
+    color: #333;
     line-height: 26px;
+    padding-left: 34px;
 }
 
 .comp_b p{
@@ -12,17 +13,18 @@
     height: 59px;
     line-height: 59px;
     border-bottom: 1px solid #c0c0c0;
-    font-size: 22px;
-    color: #3c3c3c;
+    font-size: 20px;
+    color: #333;
 }
 
 .comp_c p {
-    text-align: center;
-    height: 59px;
-    line-height: 59px;
-    font-size: 16px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 15px;
     color: #FFFFFF;
     background-color: #2a6792;
+    padding-left: 16px;
+    border-radius: 16px;
 }
 
 .comp_c a {

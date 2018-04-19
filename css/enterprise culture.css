@@ -12,20 +12,37 @@
     height: 59px;
     line-height: 59px;
     border-bottom: 1px solid #c0c0c0;
-    font-size: 22px;
+    font-size: 20px;
     color: #3c3c3c;
 }
+/*ÄÚÈÝÎÄ×Ö*/
+.content_ec p{
+    color: #333;
+    line-height: 26px;
+    padding-left: 34px;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 4;
+    overflow: hidden;
+}
 
-.ent_c p {
-    height: 59px;
-    line-height: 59px;
-    font-size: 16px;
-    color: #FFFFFF;
-    background-color: #2a6792;
+.content_ec a {
+    color: #333333;
+    text-decoration: none;
+}
+
+.content_ec a:hover {
+    color: #1f7dd7;
 }
 
 .ent_c p {
-    text-align: center;
+    height: 50px;
+    line-height: 50px;
+    font-size: 15px;
+    color: #FFFFFF;
+    background-color: #2a6792;
+    padding-left: 16px;
+    border-radius: 16px;
 }
 .ent_c p a {
     text-decoration: none;
