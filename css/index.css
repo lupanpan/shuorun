@@ -31,16 +31,10 @@ body {
     z-index: 10;
 }
 
-/*.carousel-caption p {*/
-/*margin-bottom: 20px;*/
-/*font-size: 20px;*/
-/*line-height: 1.8;*/
-/*}*/
-
 /*横线*/
 
 .container_hxbox {
-    /*height: 60px;*/
+
     position: relative;
 }
 
@@ -51,14 +45,6 @@ body {
     margin-top: 30px;
 }
 
-/*.container_wz {*/
-/*height: 70px;*/
-/*width: auto;*/
-/*position: absolute;*/
-/*font-size: 18px;*/
-/*background-color: red;*/
-/*float: left;*/
-/*}*/
 
 .container_wz a:link {
     color: #0f0f0f;
@@ -78,6 +64,10 @@ body {
     padding-bottom: 2px;
 }
 
+.concise .gsjs a {
+    color: #428bca;
+}
+
 .concise p {
     color: #333;
     font-size: 14px;
@@ -90,10 +80,9 @@ body {
     height: 300px;
 }
 
-/* 新闻资讯 */
-
-/*.news {*/
-/*background-color: #cccccc;   !* 新闻背景颜色*!*/
+/*.cha_kan a {*/
+    /*margin-top: 54px;*/
+    /*color: #1e7dd7;*/
 /*}*/
 
 .information img {
@@ -104,6 +93,11 @@ body {
     color: #333;
     font-size: 14px;
     line-height: 24px;
+}
+
+.information p a {
+    margin-top: 54px;
+    color: #428bca;
 }
 
 .information .yuchu2 {
@@ -143,7 +137,7 @@ body {
 }
 
 .information a:hover {
-    color: red;
+    color: #428bca;
 }
 
 .information_zixu {
@@ -151,7 +145,7 @@ body {
     margin-bottom: 4px;
 }
 
-.cha_kan {
+.cha_kan a {
     margin-top: 54px;
     color: #1e7dd7;
 }
