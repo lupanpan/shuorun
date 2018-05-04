@@ -6,6 +6,9 @@ body {
 /*logo*/
 
 /* 轮播广告 */
+.item {
+    height: 450px;
+}
 
 .carousel {
     height: 400px;
