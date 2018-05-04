@@ -80,10 +80,6 @@ body {
     height: 300px;
 }
 
-/*.cha_kan a {*/
-    /*margin-top: 54px;*/
-    /*color: #1e7dd7;*/
-/*}*/
 
 .information img {
     padding-top: 30px;
@@ -105,6 +101,10 @@ body {
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 5;
     overflow: hidden;
+}
+
+.information .yuchu2 a {
+    color: #333333;
 }
 
 .information .yuchu {
@@ -136,7 +136,7 @@ body {
     text-decoration: none;
 }
 
-.information a:hover {
+.ding a:hover {
     color: #428bca;
 }
 
@@ -150,7 +150,11 @@ body {
     color: #1e7dd7;
 }
 
-/*查看更多*/
+.cha_kan a:hover {
+    color: #428bca;
+}
+
+    /*查看更多*/
 
 /*.seemore {*/
     /*margin: 0 auto;*/
