@@ -11,7 +11,7 @@ body {
 }
 
 .carousel {
-    height: 400px;
+    height: 450px;
     margin-bottom: 20px;
 }
 
@@ -160,19 +160,6 @@ body {
     color: #428bca;
 }
 
-    /*查看更多*/
-
-/*.seemore {*/
-    /*margin: 0 auto;*/
-    /*margin-top: 40px;*/
-    /*text-align: center;*/
-    /*height: 40px;*/
-    /*width: 150px;*/
-    /*background-color: #2a6792;*/
-    /*font-size: 18px;*/
-    /*color: #FFFFFF;*/
-    /*line-height: 40px;*/
-/*}*/
 
 
 .seemore {
