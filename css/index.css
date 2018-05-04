@@ -80,6 +80,9 @@ body {
     height: 300px;
 }
 
+.information {
+    margin-top: 28px;
+}
 
 .information img {
     padding-top: 30px;
@@ -179,6 +182,7 @@ body {
 .seemore a {
     margin: 0 auto;
     width: 158px;
+    margin-top: 46px;
     line-height: 35px;
     border: 1px solid #666;
     color: #666;
@@ -192,6 +196,7 @@ body {
 .seemore a:hover {
     margin: 0 auto;
     display: block;
+    margin-top: 46px;
     text-decoration: none;
     background: #1e7dd7;
     border: 1px solid #1e7dd7;
@@ -204,15 +209,16 @@ body {
     height: 165px;
     border: 1px solid #eeeeee;
 }
+/*展览*/
 
-/*.col-md-2 {*/
-/*height: 80px;*/
-/*border: 1px solid #989898;*/
-/*}*/
 .exhibition p {
     padding-top: 16px;
     text-align: center;
 }
+.exhibition img{
+    margin-top: 20px;
+}
+
 
 /*底部*/
 .fot {
@@ -233,15 +239,20 @@ body {
     text-decoration: none;
 }
 
+
 .fot a:hover {
-    color: #D80808;
+    color: #428bca;
 }
 
 .fot_fot {
     color: #8B939D;
-    padding-left: 420px;
     padding-top: 10px;
     padding-bottom: 20px;
+}
+
+
+.fot_fot p {
+    text-align: center;
 }
 
 /*c3自适应图片*/
